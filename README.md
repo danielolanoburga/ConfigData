@@ -1,2 +1,2 @@
 # ConfigData
-Repositoryu for configuration properties to labs of Spring Boot and Cloud Course
+Repository for configuration properties to labs of Spring Boot and Cloud Course
